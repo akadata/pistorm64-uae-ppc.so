@@ -52,3 +52,5 @@ sudo ldconfig```
 
 See boot.log for proof of concept and Good luck, it almost boots on A500 with PiStorm boards
 
+# Compile with this tag
+```https://github.com/akadata/pistorm64/tree/ppc-stage8-bootstrap-contract```
