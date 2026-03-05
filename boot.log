@@ -1,0 +1,396 @@
+bootloader start ------->
+bootloader start ------->
+bootloader start ------->
+CyberStorm PPC detected
+Building Memory Map
+Chip ram node: 0x00004000 - 0x00200000 (2097152 bytes)
+No Mainboard FAST ram
+CSPPC ram node: 0x08000000 - 0x0FF80000 (133693440 bytes)
+Preloading module list for configuration 'Default' in SYS:Kickstart/KickLayout-A1200
+Preload Module Kickstart/kernel (Type ELF)
+OpenDOS ok
+	15 sections in file
+	Done preloading, Code 0x6BE80 bytes, ROData 0x9040 bytes, Data 0x1EC980 bytes
+Preload Module Kickstart/petunia.library.kmod (Type ELF)
+OpenDOS ok
+	11 sections in file
+	Done preloading, Code 0x1071E0 bytes, ROData 0x100 bytes, Data 0x100 bytes
+Preload Module Kickstart/x86emu.resource.kmod (Type ELF)
+OpenDOS ok
+	14 sections in file
+	Done preloading, Code 0x15AE0 bytes, ROData 0x580 bytes, Data 0xDA0 bytes
+Preload Module Kickstart/bootimage (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x20 bytes, ROData 0x80 bytes, Data 0x34E0 bytes
+Preload Module Kickstart/bootmenu.kmod (Type ELF)
+OpenDOS ok
+	11 sections in file
+	Done preloading, Code 0xB500 bytes, ROData 0x11E0 bytes, Data 0x3860 bytes
+Preload Module Kickstart/con-handler.kmod (Type ELF)
+OpenDOS ok
+	11 sections in file
+	Done preloading, Code 0xD7E0 bytes, ROData 0xF00 bytes, Data 0x40 bytes
+Preload Module Kickstart/console.device.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x20E20 bytes, ROData 0x1640 bytes, Data 0x20 bytes
+Preload Module Kickstart/dos.library.kmod (Type ELF)
+OpenDOS ok
+	11 sections in file
+	Done preloading, Code 0x4BBE0 bytes, ROData 0xA5E0 bytes, Data 0x60 bytes
+Preload Module Kickstart/elf.library.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x88C0 bytes, ROData 0x1EE0 bytes, Data 0x20 bytes
+Preload Module Kickstart/env-handler.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x4D60 bytes, ROData 0x2E0 bytes, Data 0x0 bytes
+Preload Module Kickstart/gadtools.library.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0xD9E0 bytes, ROData 0x540 bytes, Data 0x20 bytes
+Preload Module Kickstart/graphics.library.kmod (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0xCEA40 bytes, ROData 0xC9A0 bytes, Data 0x3DC0 bytes
+Preload Module Kickstart/hunk.library.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x1540 bytes, ROData 0x2E0 bytes, Data 0x20 bytes
+Preload Module Kickstart/input.device.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x2F40 bytes, ROData 0x220 bytes, Data 0x20 bytes
+Preload Module Kickstart/intuition.library.kmod (Type ELF)
+OpenDOS ok
+	14 sections in file
+	Done preloading, Code 0xA42E0 bytes, ROData 0x8740 bytes, Data 0xC0 bytes
+Preload Module Kickstart/keymap.library.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x7380 bytes, ROData 0x6800 bytes, Data 0x20 bytes
+Preload Module Kickstart/mounter.library (Type ELF)
+OpenDOS ok
+	14 sections in file
+	Done preloading, Code 0xAD80 bytes, ROData 0xC20 bytes, Data 0x320 bytes
+Preload Module Kickstart/newlib.library.kmod (Type ELF)
+OpenDOS ok
+	14 sections in file
+	Done preloading, Code 0x5CAA0 bytes, ROData 0x9E00 bytes, Data 0x15C0 bytes
+Preload Module Kickstart/nonvolatile.library.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x11C0 bytes, ROData 0x280 bytes, Data 0x20 bytes
+Preload Module Kickstart/ram-handler.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x7320 bytes, ROData 0x880 bytes, Data 0x0 bytes
+Preload Module Kickstart/ramdrive.device.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x1EE0 bytes, ROData 0x2E0 bytes, Data 0x0 bytes
+Preload Module Kickstart/ramlib.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x2CC0 bytes, ROData 0x540 bytes, Data 0x0 bytes
+Preload Module Kickstart/shell.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x19C00 bytes, ROData 0x1240 bytes, Data 0x20 bytes
+Preload Module Kickstart/strap.kmod (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0x3AE0 bytes, ROData 0x6E0 bytes, Data 0x20 bytes
+Preload Module Kickstart/timer.device.kmod (Type ELF)
+OpenDOS ok
+	10 sections in file
+	Done preloading, Code 0x28C0 bytes, ROData 0x340 bytes, Data 0x40 bytes
+Preload Module Kickstart/CDFileSystem (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0x10D20 bytes, ROData 0x800 bytes, Data 0x20 bytes
+Preload Module Kickstart/diskboot.config (Type DATA)
+	Data size is 504
+Preload Module Kickstart/diskboot.kmod (Type ELF)
+OpenDOS ok
+	10 sections in file
+	Done preloading, Code 0x4860 bytes, ROData 0x2E0 bytes, Data 0x60 bytes
+Preload Module Kickstart/FastFileSystem (Type ELF)
+OpenDOS ok
+	13 sections in file
+	Done preloading, Code 0x211A0 bytes, ROData 0x500 bytes, Data 0x0 bytes
+Preload Module Kickstart/FileSystem.resource.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x520 bytes, ROData 0xA0 bytes, Data 0x0 bytes
+Preload Module Kickstart/diskcache.library.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x4060 bytes, ROData 0x1C0 bytes, Data 0x20 bytes
+Preload Module Kickstart/SmartFileSystem (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x22060 bytes, ROData 0x1AC0 bytes, Data 0x20 bytes
+Preload Module Kickstart/JXFileSystem (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x1FF00 bytes, ROData 0x24A0 bytes, Data 0x40 bytes
+Preload Module Kickstart/battclock.resource.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x1380 bytes, ROData 0x240 bytes, Data 0x0 bytes
+Preload Module Kickstart/battmem.resource.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x540 bytes, ROData 0x180 bytes, Data 0x0 bytes
+Preload Module Kickstart/cia.resource.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0xF60 bytes, ROData 0x180 bytes, Data 0x0 bytes
+Preload Module Kickstart/disk.resource.kmod (Type HUNK)
+Preload Module Kickstart/gameport.device.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x1620 bytes, ROData 0x220 bytes, Data 0x0 bytes
+Preload Module Kickstart/graphics68k.kmod (Type HUNK)
+Preload Module Kickstart/keyboard.device.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x2E20 bytes, ROData 0x920 bytes, Data 0x20 bytes
+Preload Module Kickstart/misc.resource.kmod (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x1A0 bytes, ROData 0x160 bytes, Data 0x0 bytes
+Preload Module Kickstart/potgo.resource.kmod (Type ELF)
+OpenDOS ok
+	7 sections in file
+	Done preloading, Code 0x2E0 bytes, ROData 0x160 bytes, Data 0x0 bytes
+Preload Module Kickstart/trackdisk.device.kmod (Type HUNK)
+Preload Module Kickstart/A1200/carddisk.device.kmod (Type HUNK)
+Preload Module Kickstart/A1200/card.resource.kmod (Type HUNK)
+Preload Module Kickstart/A1200/card.r.main (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0xC40 bytes, ROData 0xE0 bytes, Data 0x0 bytes
+Preload Module Kickstart/A1200/scsi.device.kmod (Type HUNK)
+Preload Module Kickstart/A1200/scsi.device_ppc.kmod (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x6C0 bytes, ROData 0xC0 bytes, Data 0x20 bytes
+Preload Module C:ATA3.driver (Type HUNK)
+Preload Module Kickstart/sii3112ide.device.kmod (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0xACC0 bytes, ROData 0x14C0 bytes, Data 0x200 bytes
+Preload Module Kickstart/sii3114ide.device.kmod (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0xB540 bytes, ROData 0x15C0 bytes, Data 0x260 bytes
+Preload Module Kickstart/sii3512ide.device.kmod (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0xACE0 bytes, ROData 0x14C0 bytes, Data 0x200 bytes
+Preload Module Kickstart/sii0680ide.device.kmod (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0xB660 bytes, ROData 0x16C0 bytes, Data 0x260 bytes
+Preload Module Kickstart/p96Config (Type DATA)
+	Data size is 276
+Preload Module Kickstart/PCIGraphics.card (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0x1620 bytes, ROData 0x5BC0 bytes, Data 0x2A0 bytes
+Preload Module Kickstart/3DLabsPermedia2.chip (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x4040 bytes, ROData 0x1280 bytes, Data 0x0 bytes
+Preload Module Kickstart/3dfxVoodoo.chip (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x5DC0 bytes, ROData 0x940 bytes, Data 0x0 bytes
+Preload Module Kickstart/ATIRadeon.chip (Type ELF)
+OpenDOS ok
+	15 sections in file
+	Done preloading, Code 0x16CC0 bytes, ROData 0x3E00 bytes, Data 0x520 bytes
+Preload Module Kickstart/CVisionPPC.card (Type ELF)
+OpenDOS ok
+	8 sections in file
+	Done preloading, Code 0x900 bytes, ROData 0x220 bytes, Data 0x0 bytes
+Preload Module Kickstart/Graffity.card (Type HUNK)
+Preload Module Kickstart/PicassoII.card (Type HUNK)
+Preload Module Kickstart/Piccolo.card (Type HUNK)
+Preload Module Kickstart/Spectrum.card (Type HUNK)
+Preload Module Kickstart/CirrusGD542X.chip (Type HUNK)
+Preload Module Kickstart/PiccoloSD64.card (Type HUNK)
+Preload Module Kickstart/Pixel64.card (Type HUNK)
+Preload Module Kickstart/CirrusGD5434.chip (Type HUNK)
+Preload Module Kickstart/PicassoIV.card (Type HUNK)
+Preload Module Kickstart/CirrusGD5446.chip (Type HUNK)
+Preload Module Kickstart/RetinaBLT.card (Type HUNK)
+Preload Module Kickstart/NCR77C32BLT.chip (Type HUNK)
+Preload Module Kickstart/CyberVision.card (Type HUNK)
+Preload Module Kickstart/S3Trio64.chip (Type HUNK)
+Preload Module Kickstart/CVision3D.card (Type HUNK)
+Preload Module Kickstart/S3ViRGE.chip (Type HUNK)
+Preload Module Kickstart/Domino.card (Type HUNK)
+Preload Module Kickstart/TsengET4000.chip (Type HUNK)
+Preload Module Kickstart/Merlin.card (Type HUNK)
+Preload Module Kickstart/TsengET4000W32.chip (Type HUNK)
+Preload Module Kickstart/usbresource.library (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x1760 bytes, ROData 0x380 bytes, Data 0x20 bytes
+Preload Module Kickstart/usbsys.device (Type ELF)
+OpenDOS ok
+	9 sections in file
+	Done preloading, Code 0x124A0 bytes, ROData 0x2240 bytes, Data 0x20 bytes
+Preload Module Kickstart/highway.usbhcd (Type ELF)
+OpenDOS ok
+	15 sections in file
+	Done preloading, Code 0x4080 bytes, ROData 0x200 bytes, Data 0x160 bytes
+Preload Module Kickstart/hub.usbfd (Type ELF)
+OpenDOS ok
+	11 sections in file
+	Done preloading, Code 0x4580 bytes, ROData 0xDE0 bytes, Data 0x60 bytes
+Preload Module Kickstart/bootkeyboard.usbfd (Type ELF)
+OpenDOS ok
+	10 sections in file
+	Done preloading, Code 0x2680 bytes, ROData 0x3E0 bytes, Data 0x20 bytes
+Preload Module Kickstart/bootmouse.usbfd (Type ELF)
+OpenDOS ok
+	13 sections in file
+	Done preloading, Code 0xFA0 bytes, ROData 0x380 bytes, Data 0x20 bytes
+Preload Module Kickstart/massstorage.usbfd (Type ELF)
+OpenDOS ok
+	12 sections in file
+	Done preloading, Code 0x129E0 bytes, ROData 0x16C0 bytes, Data 0x10A0 bytes
+Kernel Size: 7799K (PPC) 191K (68K)
+Using memory map at 0x08BC1B50
+CSPPC Memory size 130560K (127M)
+Adjusted data size to 32768K (32M)
+Kernel Memory Map:
+    0x08000000: MMU Table
+    0x08800000: Kernel Text
+    0x09000000: Kernel ROData
+    0x09070000: Kernel Data
+    0x0B000000: Data End
+    0x00AA0000: Module Data/Code size
+    0x0E990000: Load address
+    0x06190000: Difference
+Trying to load module Kickstart/kernel (PPC Native)
+Trying to load module Kickstart/petunia.library.kmod (PPC Native)
+Trying to load module Kickstart/x86emu.resource.kmod (PPC Native)
+Trying to load module Kickstart/bootimage (PPC Native)
+Trying to load module Kickstart/bootmenu.kmod (PPC Native)
+Trying to load module Kickstart/con-handler.kmod (PPC Native)
+Trying to load module Kickstart/console.device.kmod (PPC Native)
+Trying to load module Kickstart/dos.library.kmod (PPC Native)
+Trying to load module Kickstart/elf.library.kmod (PPC Native)
+Trying to load module Kickstart/env-handler.kmod (PPC Native)
+Trying to load module Kickstart/gadtools.library.kmod (PPC Native)
+Trying to load module Kickstart/graphics.library.kmod (PPC Native)
+Trying to load module Kickstart/hunk.library.kmod (PPC Native)
+Trying to load module Kickstart/input.device.kmod (PPC Native)
+Trying to load module Kickstart/intuition.library.kmod (PPC Native)
+Trying to load module Kickstart/keymap.library.kmod (PPC Native)
+Trying to load module Kickstart/mounter.library (PPC Native)
+Trying to load module Kickstart/newlib.library.kmod (PPC Native)
+Trying to load module Kickstart/nonvolatile.library.kmod (PPC Native)
+Trying to load module Kickstart/ram-handler.kmod (PPC Native)
+Trying to load module Kickstart/ramdrive.device.kmod (PPC Native)
+Trying to load module Kickstart/ramlib.kmod (PPC Native)
+Trying to load module Kickstart/shell.kmod (PPC Native)
+Trying to load module Kickstart/strap.kmod (PPC Native)
+Trying to load module Kickstart/timer.device.kmod (PPC Native)
+Trying to load module Kickstart/CDFileSystem (PPC Native)
+Trying to load module Kickstart/diskboot.config (Data)
+Trying to load module Kickstart/diskboot.kmod (PPC Native)
+Trying to load module Kickstart/FastFileSystem (PPC Native)
+Trying to load module Kickstart/FileSystem.resource.kmod (PPC Native)
+Trying to load module Kickstart/diskcache.library.kmod (PPC Native)
+Trying to load module Kickstart/SmartFileSystem (PPC Native)
+Trying to load module Kickstart/JXFileSystem (PPC Native)
+Trying to load module Kickstart/battclock.resource.kmod (PPC Native)
+Trying to load module Kickstart/battmem.resource.kmod (PPC Native)
+Trying to load module Kickstart/cia.resource.kmod (PPC Native)
+Trying to load module Kickstart/disk.resource.kmod (68K)
+Trying to load module Kickstart/gameport.device.kmod (PPC Native)
+Trying to load module Kickstart/graphics68k.kmod (68K)
+Trying to load module Kickstart/keyboard.device.kmod (PPC Native)
+Trying to load module Kickstart/misc.resource.kmod (PPC Native)
+Trying to load module Kickstart/potgo.resource.kmod (PPC Native)
+Trying to load module Kickstart/trackdisk.device.kmod (68K)
+Trying to load module Kickstart/A1200/carddisk.device.kmod (68K)
+Trying to load module Kickstart/A1200/card.resource.kmod (68K)
+Trying to load module Kickstart/A1200/card.r.main (PPC Native)
+Trying to load module Kickstart/A1200/scsi.device.kmod (68K)
+Trying to load module Kickstart/A1200/scsi.device_ppc.kmod (PPC Native)
+Trying to load module C:ATA3.driver (68K)
+Trying to load module Kickstart/sii3112ide.device.kmod (PPC Native)
+Trying to load module Kickstart/sii3114ide.device.kmod (PPC Native)
+Trying to load module Kickstart/sii3512ide.device.kmod (PPC Native)
+Trying to load module Kickstart/sii0680ide.device.kmod (PPC Native)
+Trying to load module Kickstart/p96Config (Data)
+Trying to load module Kickstart/PCIGraphics.card (PPC Native)
+Trying to load module Kickstart/3DLabsPermedia2.chip (PPC Native)
+Trying to load module Kickstart/3dfxVoodoo.chip (PPC Native)
+Trying to load module Kickstart/ATIRadeon.chip (PPC Native)
+Trying to load module Kickstart/CVisionPPC.card (PPC Native)
+Trying to load module Kickstart/Graffity.card (68K)
+Trying to load module Kickstart/PicassoII.card (68K)
+Trying to load module Kickstart/Piccolo.card (68K)
+Trying to load module Kickstart/Spectrum.card (68K)
+Trying to load module Kickstart/CirrusGD542X.chip (68K)
+Trying to load module Kickstart/PiccoloSD64.card (68K)
+Trying to load module Kickstart/Pixel64.card (68K)
+Trying to load module Kickstart/CirrusGD5434.chip (68K)
+Trying to load module Kickstart/PicassoIV.card (68K)
+Trying to load module Kickstart/CirrusGD5446.chip (68K)
+Trying to load module Kickstart/RetinaBLT.card (68K)
+Trying to load module Kickstart/NCR77C32BLT.chip (68K)
+Trying to load module Kickstart/CyberVision.card (68K)
+Trying to load module Kickstart/S3Trio64.chip (68K)
+Trying to load module Kickstart/CVision3D.card (68K)
+Trying to load module Kickstart/S3ViRGE.chip (68K)
+Trying to load module Kickstart/Domino.card (68K)
+Trying to load module Kickstart/TsengET4000.chip (68K)
+Trying to load module Kickstart/Merlin.card (68K)
+Trying to load module Kickstart/TsengET4000W32.chip (68K)
+Trying to load module Kickstart/usbresource.library (PPC Native)
+Trying to load module Kickstart/usbsys.device (PPC Native)
+Trying to load module Kickstart/highway.usbhcd (PPC Native)
+Trying to load module Kickstart/hub.usbfd (PPC Native)
+Trying to load module Kickstart/bootkeyboard.usbfd (PPC Native)
+Trying to load module Kickstart/bootmouse.usbfd (PPC Native)
+Trying to load module Kickstart/massstorage.usbfd (PPC Native)
+Kernel loaded, looking for entry points
+Looking up symbol HAL_start...found
+Looking up symbol HAL_BootArea...found
+Looking up symbol reset_vector...found
+Looking up symbol reset_vector_end...found
+Looking up symbol HAL_serial_putchar...found
+Looking up symbol HAL_serial_getchar...found
+Looking up symbol HAL_RODataSize...found
+Symbols:
+	HAL_start: 0x08818C50
+	HAL_BootArea: 0x09070780
+	reset_vector: 0x08818640
+	reset_vector_end: 0x088186D4
+	HAL_serial_putchar: 0x08818530
+	HAL_serial_getchar: 0x08818574
+	HAL_RODataSize: 0x090033F4
+ROM image at 0x10000000
+BootArea:
+ ChipLow     0x00010000
+ ChipHigh    0x00200000
+ MainLow     0x00000000
+ MainHigh    0x00000000
+ TextLow     0x08800000
+ TextSize    0x00800000
+ DataSize    0x002A0000
+ KernMemSize 0x01D60000
+ PageSize    0x04F80000
+ RODataSize  0x00070000
+Press the Return key to boot AmigaOS4
